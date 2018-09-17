@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HistoryViewController.didTapBegin(_:):HistoryViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainBracketView.buttonTapped(_:):MainBracketView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tournament.games[5].toplabel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TeamView.frame.didset:TeamView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainBracketView.setupView():MainBracketView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ConsolationBracketView.draw(_:):ConsolationBracketView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "2*(gamesInView+1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
